@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666143237 source:c:\users\gcola\workspace\workspace_codeblocks\atividadefilaavioes\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

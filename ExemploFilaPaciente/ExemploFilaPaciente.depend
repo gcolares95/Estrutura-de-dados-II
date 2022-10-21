@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666137469 source:c:\users\gcola\workspace\c_projetos\exemplofilapaciente\exemplofilapaciente\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1666141104 source:c:\users\gcola\workspace\workspace_codeblocks\exemplofilapaciente\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
